@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "hooks": {
+        "UserPromptSubmit": [{
+            "type": "command",
+            "bash":" echo 'hello, user has submitted Prompt'"
+        }
+            
+        ]
+
+    }   
+}
